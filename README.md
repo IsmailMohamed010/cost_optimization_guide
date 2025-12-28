@@ -12,9 +12,6 @@
 
 ## Strategy: 45-55% Cost Reduction
 
-```
-
-```
 ## 1. Token Compression (15-20% savings)
 
 **Implementation**:
